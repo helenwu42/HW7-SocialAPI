@@ -1,0 +1,5 @@
+3 Observation
+
+1. BBC has the more negative setiments overall
+2. CNN has the more positive setiments overall
+3. CBS, New York Times and Fox are some where in between 
